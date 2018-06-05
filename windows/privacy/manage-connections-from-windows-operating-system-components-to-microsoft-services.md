@@ -1064,7 +1064,7 @@ To turn off **Let apps use my microphone**:
     -   **0**. User in control
     -   **1**. Force allow
     -   **2**. Force deny
-    
+
     -or-
 
 -   Create a REG\_DWORD registry setting named **LetAppsAccessMicrophone** in **HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\AppPrivacy** with a value of 2 (two)
